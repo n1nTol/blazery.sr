@@ -805,7 +805,7 @@ section{
         opacity: 0;
     }
 }
-@media (max-height: 858px){
+@media (max-width: 336px){
     #zn{
         margin-top: -1.9%;
         margin-left: -27%;
@@ -813,7 +813,7 @@ section{
         width: 70px;
     }
     .section2{
-        height: 91.5vh;
+        height: 96vh;
     }
     #img1{
         width: 100%;
@@ -822,11 +822,11 @@ section{
     }
     #wnd{
         font-size: 50px;
-        top: 42%;
+        top: 44%;
     }
     .buttons{
         margin-left: 42%;
-        margin-top: 185%;
+        margin-top: 175%;
     }
     #b1{
         height: 25px;
@@ -870,7 +870,7 @@ section{
         font-size: 13px;
     }
     .otl2{
-        margin-left: 29%;
+        margin-left: 28%;
     }
     #nm2{
         font-size: 45px;
